@@ -23,8 +23,8 @@ img{
     text-align: center;
     padding: 0.8rem 0;
     font-size: 3rem;
-    color: rgb(49,70,7);
-    background: rgba(105,224,90,0.55);
+    color: black;
+    background: yellow;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 .questions{
